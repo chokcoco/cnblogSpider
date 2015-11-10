@@ -1,0 +1,27 @@
+{
+  "name": "cnblog Spider",
+  "version": "1.0.0",
+  "description": "cnblog spider ",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.5.0",
+    "cheerio": "^0.19.0",
+    "eventproxy": "^0.3.4",
+    "superagent": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chokcoco/cnblogReptile.git"
+  },
+  "author": "Coco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chokcoco/cnblogReptile/issues"
+  },
+  "homepage": "https://github.com/chokcoco/cnblogReptile"
+}
