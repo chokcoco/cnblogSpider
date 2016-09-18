@@ -6,6 +6,9 @@ node index.js
 ```
 
 ## 相关博文
+
+具体使用请看：
+
 [【node爬虫】前端爬虫系列「博客园」爬虫](http://www.cnblogs.com/coco1s/p/4954063.html)
 
 ## license 
